@@ -4,4 +4,4 @@ metadata:
   name: demo-config
   namespace: default
 data:
-  message: "Hallo GitOps – Version 2"
+  message: "Hallo GitOps – Version 3"
